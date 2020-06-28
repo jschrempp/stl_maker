@@ -65,7 +65,7 @@ Many interesting surfaces can require multiple lines of code to describe. For th
 2. To run this program, you will need a couple of additional python packages beyond the default stuff. In particular, you will need
 
           - bitstring  ("pip install bitstring" from a command window)
-          - pip install numpy" from a command window)
+          - numpy ("pip install numpy" from a command window)
 
 4. To look at the surfaces you create, you'll need to use a tool that can read and display surfaces in stl files. Some may not like binary format, others may not like text format. I've opened all the surfaces created in my sample files using Fusion 360, and most using PrusaSlicer. 
 5. Have FUN!
